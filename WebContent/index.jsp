@@ -8,8 +8,7 @@
 </head>
 <body>
  <h1>
- Hello Jenkins..!
- 
+ Hello Jenkins..!  :)
  
  </h1>
 </body>
